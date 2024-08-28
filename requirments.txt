@@ -1,5 +1,0 @@
-pandas Version = 2.2.2
-numpy Version = 1.26.4
-Seaborn Version = 0.13.2
-Matplotlib = 3.9.1
-scikit-learn Version = 1.5.1
